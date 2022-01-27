@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**venusvavadiya/venusvavadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am a Software Developer. 
 
-Here are some ideas to get you started:
+- 👔 I am currently self-employed, working on a private NFT project.
+- 👨‍💻 Most comfortable with `.ts`, `.js`, `.py`, `.php`, `.sql`, `.html`, and `.css`. 
+- ✍️ I have developed [Ticksbook](https://github.com/venusvavadiya/ticksbook-platform-vue) and [Open source NPM Packages](https://github.com/pointslog/pl-oss/tree/main/libs).
+- 📫 Reach me at [Email](venusvavadiya@hey.com) or [LinkedIn](https://www.linkedin.com/in/venusvavadiya/)
+- ⛳️ Visit [My website](https://venusvavadiya.com/) to know more about 
+me.
+- 🎯 View my qualifications and skills [here](https://venusvavadiya.com/venus-vavadiya-resume.pdf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+[![Venus's GitHub stats](https://github-readme-stats.vercel.app/api?username=venusvavadiya&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/venusvavadiya)
